@@ -1,0 +1,6 @@
+name: invisible-frames
+version: '${version}'
+main: ru.mrsinkaaa.invisibleframes.InvisibleFrames
+api-version: '1.20'
+authors: [MrSinkaaa]
+description: To hide item frames
